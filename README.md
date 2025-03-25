@@ -10,7 +10,3 @@ Este projeto contém uma coleção de scripts Python que foram criados para faci
 Automação e Produtividade: Ao integrar com APIs, você pode automatizar processos repetitivos e economizar tempo.
 
 Fácil de Adaptar: Os scripts são simples, modularizados e documentados, permitindo que você faça ajustes rápidos conforme necessário.
-
-Exemplos Práticos: A maioria dos scripts foi projetada com exemplos reais, tornando o aprendizado e a implementação muito mais rápidos.
-
-Diversidade de APIs: O repositório cobrirá várias APIs, de redes sociais, serviços de e-mail, até ferramentas de monitoramento e muito mais!
